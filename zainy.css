@@ -565,7 +565,7 @@
 }
 .main-7{
 	background-image: url(last-bg.jpg);
-	width: 1519px;
+	width: auto;
 	height: 476px;
 	text-align: right;
 	background-attachment: fixed;
@@ -770,3 +770,7 @@ form button:hover{
 /* .button-side{
 	margin-bottom: 5px !important;
 } */
+
+.rowW{
+	width: auto !important;
+}
